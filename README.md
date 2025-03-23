@@ -3,7 +3,7 @@
 # Overview
 This is a Spring Boot REST API for managing student records. It provides CRUD operations (Create, Read, Update, Delete) using Spring Boot, MySQL, and JPA.
 
-## 🛠 Technologies Used
+# Technologies Used
 - Java 17  
 - Spring Boot (Spring Web, Spring Data JPA)  
 - MySQL (Database)  
